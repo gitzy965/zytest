@@ -9,6 +9,7 @@ package pattern.factory;
  * 可以使代码结构清晰，有效地封装变化。
  * 对调用者屏蔽具体的产品类
  * 用于分离产品的生产者和消费者，降低耦合度。
+ * 用于测试冲突
  * 
  */
 public class Factory {
