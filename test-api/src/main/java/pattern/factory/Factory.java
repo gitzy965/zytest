@@ -10,6 +10,7 @@ package pattern.factory;
  * 对调用者屏蔽具体的产品类
  * 用于分离产品的生产者和消费者，降低耦合度。
  * 用于测试冲突
+ * 测试发现冲突然后处理
  * 
  */
 public class Factory {
