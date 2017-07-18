@@ -83,6 +83,7 @@ class ProductA2 extends Aproduct {
 	//对于产品规范的一种实现
 	@Override
 	public void show() {
+		//更新新的东西
 		System.out.println("这是A类商品二号");
 	}
 
